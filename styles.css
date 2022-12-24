@@ -143,12 +143,16 @@ h2 {
 /* END QUESTION 3 */
 
 /* QUESTION 4 */
+
 .mexico-green {
   background-color: #006341;
 }
 
 .mexico-img {
   /* TODO */
+  height: 150px;
+  background-color: white;
+  align-self:center;
 }
 
 .mexico-red {
