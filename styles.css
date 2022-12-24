@@ -3,6 +3,7 @@
   color: rgb(0, 0, 0);
   text-align: center;
   margin: 50px;
+  font-size: 75px;
 }
 
 .flags {
@@ -157,6 +158,17 @@ h2 {
 
 .mexico-red {
   background-color: #ce1126;
+}
+
+/* Question 5 */
+.label {
+  color: rebeccapurple;
+  font-size: 30px;
+}
+
+.label:hover {
+  color: rosybrown;
+  font-size: 50px;
 }
 
 /* QUESTION 6 */
